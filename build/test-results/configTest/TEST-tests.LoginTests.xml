@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.LoginTests" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-11-18T15:10:50" hostname="DESKTOP-MMEUCUR" time="37.697">
+  <properties/>
+  <testcase name="loginNegativeTestWrongEmail" classname="tests.LoginTests" time="2.977"/>
+  <testcase name="loginNegativeTestWrongPassword" classname="tests.LoginTests" time="2.161"/>
+  <testcase name="loginPositiveTest[0](User(email=galina@gmail.com, password=Gg123456$))" classname="tests.LoginTests" time="1.719"/>
+  <testcase name="loginPositiveTest[1](User(email=galina@gmail.com, password=Gg123456$))" classname="tests.LoginTests" time="0.927"/>
+  <testcase name="loginPositiveTest[2](User(email=galina@gmail.com, password=Gg123456$))" classname="tests.LoginTests" time="0.875"/>
+  <testcase name="loginPositiveTest[3](User(email=galina@gmail.com, password=Gg123456$))" classname="tests.LoginTests" time="0.919"/>
+  <testcase name="loginPositiveTest[4](User(email=galina@gmail.com, password=Gg123456$))" classname="tests.LoginTests" time="0.921"/>
+  <testcase name="loginPositiveTest[5](User(email=galina@gmail.com, password=Gg123456$))" classname="tests.LoginTests" time="0.915"/>
+  <testcase name="loginPositiveTest[6](User(email=galina@gmail.com, password=Gg123456$))" classname="tests.LoginTests" time="0.96"/>
+  <testcase name="loginPositiveTest[7](User(email=galina@gmail.com, password=Gg123456$))" classname="tests.LoginTests" time="1.156"/>
+  <testcase name="loginPositiveTest[8](User(email=galina@gmail.com, password=Gg123456$))" classname="tests.LoginTests" time="1.962"/>
+  <testcase name="loginPositiveTestConfig" classname="tests.LoginTests" time="1.144"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
