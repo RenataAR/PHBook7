@@ -1,0 +1,2 @@
+15:28:45.302 INFO  tests.TestBase ******** Start test public void tests.RegistrationTests.registrationNegativeTestWrongEmail()
+15:28:58.125 INFO  tests.TestBase ******** Finish test ******

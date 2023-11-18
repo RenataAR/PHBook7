@@ -1,0 +1,59 @@
+18:41:18.619 INFO  manage.ApplicationManager Testing on FireFox Driver
+18:41:19.799 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginNegativeTestWrongEmail()
+18:41:19.800 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:41:29.829 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:41:29.833 INFO  manage.MyListener Start searching element by: By.xpath: //a[@href='/login']
+18:41:29.851 INFO  manage.MyListener The element with locator By.xpath: //a[@href='/login']is found
+18:41:30.110 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='email']
+18:41:30.128 INFO  manage.MyListener The element with locator By.xpath: //input[@name='email']is found
+18:41:30.442 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='password']
+18:41:30.455 INFO  manage.MyListener The element with locator By.xpath: //input[@name='password']is found
+18:41:30.723 INFO  manage.MyListener Start searching element by: By.xpath: //button[@type='submit']
+18:41:30.732 INFO  manage.MyListener The element with locator By.xpath: //button[@type='submit']is found
+18:41:32.078 INFO  tests.TestBase ******** Finish test ******
+18:41:32.087 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:41:32.088 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:41:42.110 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:41:42.111 INFO  manage.MyListener Start searching element by: By.xpath: //a[@href='/login']
+18:41:42.128 INFO  manage.MyListener The element with locator By.xpath: //a[@href='/login']is found
+18:41:42.359 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='email']
+18:41:42.375 INFO  manage.MyListener The element with locator By.xpath: //input[@name='email']is found
+18:41:42.648 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='password']
+18:41:42.670 INFO  manage.MyListener The element with locator By.xpath: //input[@name='password']is found
+18:41:42.938 INFO  manage.MyListener Start searching element by: By.xpath: //button[@type='submit']
+18:41:42.949 INFO  manage.MyListener The element with locator By.xpath: //button[@type='submit']is found
+18:41:43.179 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:41:43.274 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:41:43.276 INFO  tests.TestBase ******** Finish test ******
+18:41:43.278 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:41:43.278 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:41:43.290 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:41:43.290 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:41:43.304 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:41:43.536 INFO  manage.MyListener Start searching element by: By.xpath: //a[@href='/login']
+18:41:43.552 INFO  manage.MyListener The element with locator By.xpath: //a[@href='/login']is found
+18:41:43.798 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='email']
+18:41:43.819 INFO  manage.MyListener The element with locator By.xpath: //input[@name='email']is found
+18:41:44.093 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='password']
+18:41:44.098 INFO  manage.MyListener The element with locator By.xpath: //input[@name='password']is found
+18:41:44.370 INFO  manage.MyListener Start searching element by: By.xpath: //button[@type='submit']
+18:41:44.374 INFO  manage.MyListener The element with locator By.xpath: //button[@type='submit']is found
+18:41:44.604 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:41:44.704 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:41:44.705 INFO  tests.TestBase ******** Finish test ******
+18:41:44.706 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:41:44.707 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:41:44.713 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:41:44.714 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:41:44.730 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:41:44.962 INFO  manage.MyListener Start searching element by: By.xpath: //a[@href='/login']
+18:41:44.977 INFO  manage.MyListener The element with locator By.xpath: //a[@href='/login']is found
+18:41:45.210 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='email']
+18:41:45.225 INFO  manage.MyListener The element with locator By.xpath: //input[@name='email']is found
+18:41:45.503 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='password']
+18:41:45.522 INFO  manage.MyListener The element with locator By.xpath: //input[@name='password']is found
+18:41:45.797 INFO  manage.MyListener Start searching element by: By.xpath: //button[@type='submit']
+18:41:45.803 INFO  manage.MyListener The element with locator By.xpath: //button[@type='submit']is found
+18:41:46.034 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:41:46.129 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:41:46.130 INFO  tests.TestBase ******** Finish test ******

@@ -1,0 +1,15 @@
+12:11:57.562 INFO  manage.ApplicationManager Testing on Chrome Driver
+12:11:58.666 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTestConfig()
+12:11:58.667 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+12:12:08.722 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+12:12:08.724 INFO  manage.MyListener Start searching element by: By.xpath: //a[@href='/login']
+12:12:08.738 INFO  manage.MyListener The element with locator By.xpath: //a[@href='/login']is found
+12:12:08.802 INFO  manage.MyListener Start searching element by: By.xpath: //input[1]
+12:12:08.819 INFO  manage.MyListener The element with locator By.xpath: //input[1]is found
+12:12:09.001 INFO  manage.MyListener Start searching element by: By.xpath: //input[2]
+12:12:09.019 INFO  manage.MyListener The element with locator By.xpath: //input[2]is found
+12:12:09.135 INFO  manage.MyListener Start searching element by: By.xpath: //button[@type='submit']
+12:12:09.160 INFO  manage.MyListener The element with locator By.xpath: //button[@type='submit']is found
+12:12:09.212 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+12:12:10.297 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+12:12:10.302 INFO  tests.TestBase ******** Finish test ******

@@ -1,0 +1,104 @@
+18:01:01.707 INFO  manage.ApplicationManager Testing on Chrome Driver
+18:01:02.689 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginNegativeTestWrongEmail()
+18:01:02.695 INFO  tests.TestBase ******** Finish test ******
+18:01:02.697 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginNegativeTestWrongPassword()
+18:01:02.699 INFO  tests.TestBase ******** Finish test ******
+18:01:02.714 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:01:02.716 INFO  tests.TestBase ******** Finish test ******
+18:01:02.717 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:01:02.758 INFO  tests.TestBase ******** Finish test ******
+18:01:02.765 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:01:02.782 INFO  tests.TestBase ******** Finish test ******
+18:01:02.783 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:01:02.784 INFO  tests.TestBase ******** Finish test ******
+18:01:02.785 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:01:02.791 INFO  tests.TestBase ******** Finish test ******
+18:01:02.792 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:01:02.802 INFO  tests.TestBase ******** Finish test ******
+18:01:02.807 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:01:02.813 INFO  tests.TestBase ******** Finish test ******
+18:01:02.818 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:01:02.821 INFO  tests.TestBase ******** Finish test ******
+18:01:02.823 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+18:01:02.837 INFO  tests.TestBase ******** Finish test ******
+18:01:02.838 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTestConfig()
+18:01:02.842 INFO  tests.TestBase ******** Finish test ******
+18:01:02.851 INFO  tests.TestBase ******** Start test public void tests.RegistrationTests.registrationNegativeTestWrongEmail()
+18:01:02.854 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:12.933 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:01:12.936 INFO  manage.MyListener Start searching element by: By.xpath: //a[@href='/login']
+18:01:12.961 INFO  manage.MyListener The element with locator By.xpath: //a[@href='/login']is found
+18:01:13.020 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='email']
+18:01:13.037 INFO  manage.MyListener The element with locator By.xpath: //input[@name='email']is found
+18:01:13.159 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='password']
+18:01:13.171 INFO  manage.MyListener The element with locator By.xpath: //input[@name='password']is found
+18:01:13.265 INFO  manage.MyListener Start searching element by: By.xpath: //button[@name="registration"]
+18:01:13.316 INFO  manage.MyListener The element with locator By.xpath: //button[@name="registration"]is found
+18:01:14.902 INFO  tests.TestBase ******** Finish test ******
+18:01:14.903 INFO  tests.TestBase ******** Start test public void tests.RegistrationTests.registrationPositiveTest()
+18:01:14.903 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:24.977 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:01:24.978 INFO  manage.MyListener Start searching element by: By.xpath: //a[@href='/login']
+18:01:24.992 INFO  manage.MyListener The element with locator By.xpath: //a[@href='/login']is found
+18:01:25.026 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='email']
+18:01:25.049 INFO  manage.MyListener The element with locator By.xpath: //input[@name='email']is found
+18:01:25.162 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='password']
+18:01:25.172 INFO  manage.MyListener The element with locator By.xpath: //input[@name='password']is found
+18:01:25.278 INFO  manage.MyListener Start searching element by: By.xpath: //button[@name="registration"]
+18:01:25.300 INFO  manage.MyListener The element with locator By.xpath: //button[@name="registration"]is found
+18:01:25.333 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:25.726 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:01:25.727 INFO  tests.TestBase ******** Finish test ******
+18:01:25.728 INFO  tests.TestBase ******** Start test public void tests.RegistrationTests.registrationPositiveTestCSV(model.User)
+18:01:25.728 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:25.742 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:01:25.743 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:25.760 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:01:25.800 INFO  manage.MyListener Start searching element by: By.xpath: //a[@href='/login']
+18:01:25.819 INFO  manage.MyListener The element with locator By.xpath: //a[@href='/login']is found
+18:01:25.852 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='email']
+18:01:25.866 INFO  manage.MyListener The element with locator By.xpath: //input[@name='email']is found
+18:01:25.981 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='password']
+18:01:26.004 INFO  manage.MyListener The element with locator By.xpath: //input[@name='password']is found
+18:01:26.099 INFO  manage.MyListener Start searching element by: By.xpath: //button[@name="registration"]
+18:01:26.111 INFO  manage.MyListener The element with locator By.xpath: //button[@name="registration"]is found
+18:01:26.139 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:26.713 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:01:26.716 INFO  tests.TestBase ******** Finish test ******
+18:01:26.718 INFO  tests.TestBase ******** Start test public void tests.RegistrationTests.registrationPositiveTestCSV(model.User)
+18:01:26.719 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:26.732 INFO  manage.MyListener Something went wrong!
+18:01:26.732 INFO  manage.MyListener unexpected alert open: {Alert text : User already exist}
+  (Session info: chrome=119.0.6045.160): User already exist
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\Renata\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53712}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1524a440321163b43612d22ed8e1783
+*** Element info: {Using=xpath, value=//button[.='Sign Out']}
+18:01:26.732 INFO  manage.MyListener unexpected alert open: {Alert text : User already exist}
+  (Session info: chrome=119.0.6045.160): User already exist
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\Renata\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53712}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1524a440321163b43612d22ed8e1783
+*** Element info: {Using=xpath, value=//button[.='Sign Out']}
+18:01:27.089 INFO  manage.MyListener Here is the link to screenshot src/test/screenshots/screenshot-86.png
+18:01:27.090 INFO  tests.TestBase ******** Finish test ******
+18:01:27.091 INFO  tests.TestBase ******** Start test public void tests.RegistrationTests.registrationPositiveTestCSV(model.User)
+18:01:27.091 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:37.156 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:01:37.157 INFO  tests.TestBase ******** Finish test ******
+18:01:37.158 INFO  tests.TestBase ******** Start test public void tests.RegistrationTests.registrationPositiveTestCSV(model.User)
+18:01:37.159 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:47.186 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:01:47.187 INFO  tests.TestBase ******** Finish test ******
+18:01:47.188 INFO  tests.TestBase ******** Start test public void tests.RegistrationTests.registrationPositiveTestCSV(model.User)
+18:01:47.188 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:01:57.205 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:01:57.207 INFO  tests.TestBase ******** Finish test ******
+18:01:57.208 INFO  tests.TestBase ******** Start test public void tests.RegistrationTests.registrationPositiveTestCSV(model.User)
+18:01:57.208 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+18:02:07.234 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+18:02:07.234 INFO  tests.TestBase ******** Finish test ******

@@ -1,0 +1,12 @@
+16:40:23.108 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginNegativeTestWrongEmail()
+16:40:23.113 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Sign Out']
+16:40:33.200 INFO  manage.MyListener The element with locator By.xpath: //button[.='Sign Out']is found
+16:40:33.204 INFO  manage.MyListener Start searching element by: By.xpath: //a[@href='/login']
+16:40:33.221 INFO  manage.MyListener The element with locator By.xpath: //a[@href='/login']is found
+16:40:33.289 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='email']
+16:40:33.311 INFO  manage.MyListener The element with locator By.xpath: //input[@name='email']is found
+16:40:33.438 INFO  manage.MyListener Start searching element by: By.xpath: //input[@name='password']
+16:40:33.451 INFO  manage.MyListener The element with locator By.xpath: //input[@name='password']is found
+16:40:33.543 INFO  manage.MyListener Start searching element by: By.xpath: //button[@type='submit']
+16:40:33.560 INFO  manage.MyListener The element with locator By.xpath: //button[@type='submit']is found
+16:40:35.190 INFO  tests.TestBase ******** Finish test ******

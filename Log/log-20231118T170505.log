@@ -1,0 +1,24 @@
+17:05:05.650 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginNegativeTestWrongEmail()
+17:05:05.659 INFO  tests.TestBase ******** Finish test ******
+17:05:05.660 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginNegativeTestWrongPassword()
+17:05:05.662 INFO  tests.TestBase ******** Finish test ******
+17:05:05.671 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+17:05:05.672 INFO  tests.TestBase ******** Finish test ******
+17:05:05.673 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+17:05:05.682 INFO  tests.TestBase ******** Finish test ******
+17:05:05.685 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+17:05:05.688 INFO  tests.TestBase ******** Finish test ******
+17:05:05.689 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+17:05:05.692 INFO  tests.TestBase ******** Finish test ******
+17:05:05.693 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+17:05:05.697 INFO  tests.TestBase ******** Finish test ******
+17:05:05.700 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+17:05:05.704 INFO  tests.TestBase ******** Finish test ******
+17:05:05.706 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+17:05:05.708 INFO  tests.TestBase ******** Finish test ******
+17:05:05.709 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+17:05:05.711 INFO  tests.TestBase ******** Finish test ******
+17:05:05.712 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTest(model.User)
+17:05:05.716 INFO  tests.TestBase ******** Finish test ******
+17:05:05.718 INFO  tests.TestBase ******** Start test public void tests.LoginTests.loginPositiveTestConfig()
+17:05:05.723 INFO  tests.TestBase ******** Finish test ******
